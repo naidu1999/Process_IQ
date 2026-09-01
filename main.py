@@ -11,7 +11,9 @@ from pydantic import BaseModel, Field
 BACKEND_DIR=Path(__file__).resolve().parents[1]
 PROJECT_DIR=BACKEND_DIR.parent
 DATA_FILE=BACKEND_DIR/'data'/'processes.csv'
-FRONTEND_DIR=PROJECT_DIR/'frontend'
+from pathlib import Path
+BASE_DIR = Path(__file__).resolve().parent
+FRONTEND_DIR = BASE_DIR
 LOCK=threading.Lock()
 NUMERIC=['annual_volume','manual_effort_pct','error_rate_pct','business_impact','data_quality','implementation_complexity','risk_level']
 CSV_FIELDS=['id','name','department','industry','description',*NUMERIC]
