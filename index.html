@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>ProcessIQ</title><link rel="stylesheet" href="/style.css"></head>
+<body>
+<header><div><h1>ProcessIQ</h1><p>Enterprise AI Process Intelligence Engine · Explainable opportunity prioritisation</p></div><select id="language"><option>English</option><option>हिन्दी</option><option>తెలుగు</option></select></header>
+<main>
+<section id="metrics" class="grid"></section>
+<section class="panel"><h2>Department opportunity landscape</h2><p>Average explainable AI opportunity score by department</p><div id="departmentBars"></div></section>
+<section class="panel"><div class="heading"><div><h2>Process explorer</h2><p>Search, filter and inspect current process opportunities</p></div><button id="addButton">+ Add new process</button></div>
+<div class="toolbar"><input id="search" placeholder="Search process, department or industry..."><button id="searchButton">Search</button><select id="department"><option value="">All departments</option></select><select id="industry"><option value="">All industries</option></select><button id="clearButton" class="secondary">Clear</button></div><div id="status"></div>
+<div class="tablewrap"><table><thead><tr><th>Rank</th><th>Process</th><th>Department</th><th>Industry</th><th>Volume</th><th>Opportunity Score</th><th>Recommendation</th><th>Details</th></tr></thead><tbody id="rows"></tbody></table></div></section>
+<section class="panel ai"><h2>Ask ProcessIQ</h2><p>Ask for current process prioritisation insights</p><div class="toolbar"><input id="question" placeholder="Which processes should we automate first?"><button id="askButton">Ask</button></div><div id="answer">Ask a question about the current process portfolio.</div></section>
+</main>
+<div id="modalBg"><div id="modal"><button id="closeModal" class="close">×</button><div id="modalContent"></div></div></div>
+<script src="/app.js"></script></body></html>

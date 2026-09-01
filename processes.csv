@@ -1,0 +1,101 @@
+id,name,department,industry,description,annual_volume,manual_effort_pct,error_rate_pct,business_impact,data_quality,implementation_complexity,risk_level
+1,Supplier Risk Review,Marketing,Manufacturing,Supplier Risk Review workflow involving cross-functional business review and operational decisions.,6233,36,9,7,9,6,7
+2,Exit Clearance,Sales,Logistics,Exit Clearance workflow involving cross-functional business review and operational decisions.,7966,47,16,10,7,2,4
+3,Leave Request Processing,HR,Retail,Leave Request Processing workflow involving cross-functional business review and operational decisions.,9699,58,4,6,5,6,1
+4,Case Summary Generation,Marketing,Healthcare,Case Summary Generation workflow involving cross-functional business review and operational decisions.,11432,69,11,9,10,2,7
+5,Employee Document Verification,Sales,Telecommunications,Employee Document Verification workflow involving cross-functional business review and operational decisions.,13165,80,18,5,8,6,4
+6,Credit Note Processing,HR,Technology,Credit Note Processing workflow involving cross-functional business review and operational decisions.,14898,25,6,8,6,2,1
+7,Campaign Asset Review,Marketing,Financial Services,Campaign Asset Review workflow involving cross-functional business review and operational decisions.,16631,36,13,4,4,6,7
+8,Invoice Matching,Sales,Manufacturing,Invoice Matching workflow involving cross-functional business review and operational decisions.,18364,47,20,7,9,2,4
+9,Customer Onboarding,HR,Logistics,Customer Onboarding workflow involving cross-functional business review and operational decisions.,20097,58,8,10,7,6,1
+10,Contract Review,Marketing,Retail,Contract Review workflow involving cross-functional business review and operational decisions.,21830,69,15,6,5,2,7
+11,Purchase Order Approval,Sales,Healthcare,Purchase Order Approval workflow involving cross-functional business review and operational decisions.,23563,80,3,9,10,6,4
+12,Expense Claim Validation,HR,Telecommunications,Expense Claim Validation workflow involving cross-functional business review and operational decisions.,25296,25,10,5,8,2,1
+13,Service Ticket Triage,Marketing,Technology,Service Ticket Triage workflow involving cross-functional business review and operational decisions.,27029,36,17,8,6,6,7
+14,Lead Qualification,Sales,Financial Services,Lead Qualification workflow involving cross-functional business review and operational decisions.,28762,47,5,4,4,2,4
+15,Claims Intake,HR,Manufacturing,Claims Intake workflow involving cross-functional business review and operational decisions.,30495,58,12,7,9,6,1
+16,Quality Incident Review,Marketing,Logistics,Quality Incident Review workflow involving cross-functional business review and operational decisions.,5228,69,19,10,7,2,7
+17,Knowledge Base Update,Sales,Retail,Knowledge Base Update workflow involving cross-functional business review and operational decisions.,6961,80,7,6,5,6,4
+18,Vendor Master Data Update,HR,Healthcare,Vendor Master Data Update workflow involving cross-functional business review and operational decisions.,8694,25,14,9,10,2,1
+19,Payroll Exception Review,Marketing,Telecommunications,Payroll Exception Review workflow involving cross-functional business review and operational decisions.,10427,36,2,5,8,6,7
+20,Sales Proposal Review,Sales,Technology,Sales Proposal Review workflow involving cross-functional business review and operational decisions.,12160,47,9,8,6,2,4
+21,Access Request Processing,HR,Financial Services,Access Request Processing workflow involving cross-functional business review and operational decisions.,13893,58,16,4,4,6,1
+22,Fraud Alert Investigation,Marketing,Manufacturing,Fraud Alert Investigation workflow involving cross-functional business review and operational decisions.,15626,69,4,7,9,2,7
+23,Recruitment Screening,Sales,Logistics,Recruitment Screening workflow involving cross-functional business review and operational decisions.,17359,80,11,10,7,6,4
+24,Returns Authorization,HR,Retail,Returns Authorization workflow involving cross-functional business review and operational decisions.,19092,25,18,6,5,2,1
+25,Compliance Evidence Collection,Marketing,Healthcare,Compliance Evidence Collection workflow involving cross-functional business review and operational decisions.,20825,36,6,9,10,6,7
+26,Supplier Risk Review - 2,Sales,Telecommunications,Supplier Risk Review - 2 workflow involving cross-functional business review and operational decisions.,22558,47,13,5,8,2,4
+27,Exit Clearance - 2,HR,Technology,Exit Clearance - 2 workflow involving cross-functional business review and operational decisions.,24291,58,20,8,6,6,1
+28,Leave Request Processing - 2,Marketing,Financial Services,Leave Request Processing - 2 workflow involving cross-functional business review and operational decisions.,26024,69,8,4,4,2,7
+29,Case Summary Generation - 2,Sales,Manufacturing,Case Summary Generation - 2 workflow involving cross-functional business review and operational decisions.,27757,80,15,7,9,6,4
+30,Employee Document Verification - 2,HR,Logistics,Employee Document Verification - 2 workflow involving cross-functional business review and operational decisions.,29490,25,3,10,7,2,1
+31,Credit Note Processing - 2,Marketing,Retail,Credit Note Processing - 2 workflow involving cross-functional business review and operational decisions.,31223,36,10,6,5,6,7
+32,Campaign Asset Review - 2,Sales,Healthcare,Campaign Asset Review - 2 workflow involving cross-functional business review and operational decisions.,5956,47,17,9,10,2,4
+33,Invoice Matching - 2,HR,Telecommunications,Invoice Matching - 2 workflow involving cross-functional business review and operational decisions.,7689,58,5,5,8,6,1
+34,Customer Onboarding - 2,Marketing,Technology,Customer Onboarding - 2 workflow involving cross-functional business review and operational decisions.,9422,69,12,8,6,2,7
+35,Contract Review - 2,Sales,Financial Services,Contract Review - 2 workflow involving cross-functional business review and operational decisions.,11155,80,19,4,4,6,4
+36,Purchase Order Approval - 2,HR,Manufacturing,Purchase Order Approval - 2 workflow involving cross-functional business review and operational decisions.,12888,25,7,7,9,2,1
+37,Expense Claim Validation - 2,Marketing,Logistics,Expense Claim Validation - 2 workflow involving cross-functional business review and operational decisions.,14621,36,14,10,7,6,7
+38,Service Ticket Triage - 2,Sales,Retail,Service Ticket Triage - 2 workflow involving cross-functional business review and operational decisions.,16354,47,2,6,5,2,4
+39,Lead Qualification - 2,HR,Healthcare,Lead Qualification - 2 workflow involving cross-functional business review and operational decisions.,18087,58,9,9,10,6,1
+40,Claims Intake - 2,Marketing,Telecommunications,Claims Intake - 2 workflow involving cross-functional business review and operational decisions.,19820,69,16,5,8,2,7
+41,Quality Incident Review - 2,Sales,Technology,Quality Incident Review - 2 workflow involving cross-functional business review and operational decisions.,21553,80,4,8,6,6,4
+42,Knowledge Base Update - 2,HR,Financial Services,Knowledge Base Update - 2 workflow involving cross-functional business review and operational decisions.,23286,25,11,4,4,2,1
+43,Vendor Master Data Update - 2,Marketing,Manufacturing,Vendor Master Data Update - 2 workflow involving cross-functional business review and operational decisions.,25019,36,18,7,9,6,7
+44,Payroll Exception Review - 2,Sales,Logistics,Payroll Exception Review - 2 workflow involving cross-functional business review and operational decisions.,26752,47,6,10,7,2,4
+45,Sales Proposal Review - 2,HR,Retail,Sales Proposal Review - 2 workflow involving cross-functional business review and operational decisions.,28485,58,13,6,5,6,1
+46,Access Request Processing - 2,Marketing,Healthcare,Access Request Processing - 2 workflow involving cross-functional business review and operational decisions.,30218,69,20,9,10,2,7
+47,Fraud Alert Investigation - 2,Sales,Telecommunications,Fraud Alert Investigation - 2 workflow involving cross-functional business review and operational decisions.,4951,80,8,5,8,6,4
+48,Recruitment Screening - 2,HR,Technology,Recruitment Screening - 2 workflow involving cross-functional business review and operational decisions.,6684,25,15,8,6,2,1
+49,Returns Authorization - 2,Marketing,Financial Services,Returns Authorization - 2 workflow involving cross-functional business review and operational decisions.,8417,36,3,4,4,6,7
+50,Compliance Evidence Collection - 2,Sales,Manufacturing,Compliance Evidence Collection - 2 workflow involving cross-functional business review and operational decisions.,10150,47,10,7,9,2,4
+51,Supplier Risk Review - 3,HR,Logistics,Supplier Risk Review - 3 workflow involving cross-functional business review and operational decisions.,11883,58,17,10,7,6,1
+52,Exit Clearance - 3,Marketing,Retail,Exit Clearance - 3 workflow involving cross-functional business review and operational decisions.,13616,69,5,6,5,2,7
+53,Leave Request Processing - 3,Sales,Healthcare,Leave Request Processing - 3 workflow involving cross-functional business review and operational decisions.,15349,80,12,9,10,6,4
+54,Case Summary Generation - 3,HR,Telecommunications,Case Summary Generation - 3 workflow involving cross-functional business review and operational decisions.,17082,25,19,5,8,2,1
+55,Employee Document Verification - 3,Marketing,Technology,Employee Document Verification - 3 workflow involving cross-functional business review and operational decisions.,18815,36,7,8,6,6,7
+56,Credit Note Processing - 3,Sales,Financial Services,Credit Note Processing - 3 workflow involving cross-functional business review and operational decisions.,20548,47,14,4,4,2,4
+57,Campaign Asset Review - 3,HR,Manufacturing,Campaign Asset Review - 3 workflow involving cross-functional business review and operational decisions.,22281,58,2,7,9,6,1
+58,Invoice Matching - 3,Marketing,Logistics,Invoice Matching - 3 workflow involving cross-functional business review and operational decisions.,24014,69,9,10,7,2,7
+59,Customer Onboarding - 3,Sales,Retail,Customer Onboarding - 3 workflow involving cross-functional business review and operational decisions.,25747,80,16,6,5,6,4
+60,Contract Review - 3,HR,Healthcare,Contract Review - 3 workflow involving cross-functional business review and operational decisions.,27480,25,4,9,10,2,1
+61,Purchase Order Approval - 3,Marketing,Telecommunications,Purchase Order Approval - 3 workflow involving cross-functional business review and operational decisions.,29213,36,11,5,8,6,7
+62,Expense Claim Validation - 3,Sales,Technology,Expense Claim Validation - 3 workflow involving cross-functional business review and operational decisions.,30946,47,18,8,6,2,4
+63,Service Ticket Triage - 3,HR,Financial Services,Service Ticket Triage - 3 workflow involving cross-functional business review and operational decisions.,5679,58,6,4,4,6,1
+64,Lead Qualification - 3,Marketing,Manufacturing,Lead Qualification - 3 workflow involving cross-functional business review and operational decisions.,7412,69,13,7,9,2,7
+65,Claims Intake - 3,Sales,Logistics,Claims Intake - 3 workflow involving cross-functional business review and operational decisions.,9145,80,20,10,7,6,4
+66,Quality Incident Review - 3,HR,Retail,Quality Incident Review - 3 workflow involving cross-functional business review and operational decisions.,10878,25,8,6,5,2,1
+67,Knowledge Base Update - 3,Marketing,Healthcare,Knowledge Base Update - 3 workflow involving cross-functional business review and operational decisions.,12611,36,15,9,10,6,7
+68,Vendor Master Data Update - 3,Sales,Telecommunications,Vendor Master Data Update - 3 workflow involving cross-functional business review and operational decisions.,14344,47,3,5,8,2,4
+69,Payroll Exception Review - 3,HR,Technology,Payroll Exception Review - 3 workflow involving cross-functional business review and operational decisions.,16077,58,10,8,6,6,1
+70,Sales Proposal Review - 3,Marketing,Financial Services,Sales Proposal Review - 3 workflow involving cross-functional business review and operational decisions.,17810,69,17,4,4,2,7
+71,Access Request Processing - 3,Sales,Manufacturing,Access Request Processing - 3 workflow involving cross-functional business review and operational decisions.,19543,80,5,7,9,6,4
+72,Fraud Alert Investigation - 3,HR,Logistics,Fraud Alert Investigation - 3 workflow involving cross-functional business review and operational decisions.,21276,25,12,10,7,2,1
+73,Recruitment Screening - 3,Marketing,Retail,Recruitment Screening - 3 workflow involving cross-functional business review and operational decisions.,23009,36,19,6,5,6,7
+74,Returns Authorization - 3,Sales,Healthcare,Returns Authorization - 3 workflow involving cross-functional business review and operational decisions.,24742,47,7,9,10,2,4
+75,Compliance Evidence Collection - 3,HR,Telecommunications,Compliance Evidence Collection - 3 workflow involving cross-functional business review and operational decisions.,26475,58,14,5,8,6,1
+76,Supplier Risk Review - 4,Marketing,Technology,Supplier Risk Review - 4 workflow involving cross-functional business review and operational decisions.,28208,69,2,8,6,2,7
+77,Exit Clearance - 4,Sales,Financial Services,Exit Clearance - 4 workflow involving cross-functional business review and operational decisions.,29941,80,9,4,4,6,4
+78,Leave Request Processing - 4,HR,Manufacturing,Leave Request Processing - 4 workflow involving cross-functional business review and operational decisions.,4674,25,16,7,9,2,1
+79,Case Summary Generation - 4,Marketing,Logistics,Case Summary Generation - 4 workflow involving cross-functional business review and operational decisions.,6407,36,4,10,7,6,7
+80,Employee Document Verification - 4,Sales,Retail,Employee Document Verification - 4 workflow involving cross-functional business review and operational decisions.,8140,47,11,6,5,2,4
+81,Credit Note Processing - 4,HR,Healthcare,Credit Note Processing - 4 workflow involving cross-functional business review and operational decisions.,9873,58,18,9,10,6,1
+82,Campaign Asset Review - 4,Marketing,Telecommunications,Campaign Asset Review - 4 workflow involving cross-functional business review and operational decisions.,11606,69,6,5,8,2,7
+83,Invoice Matching - 4,Sales,Technology,Invoice Matching - 4 workflow involving cross-functional business review and operational decisions.,13339,80,13,8,6,6,4
+84,Customer Onboarding - 4,HR,Financial Services,Customer Onboarding - 4 workflow involving cross-functional business review and operational decisions.,15072,25,20,4,4,2,1
+85,Contract Review - 4,Marketing,Manufacturing,Contract Review - 4 workflow involving cross-functional business review and operational decisions.,16805,36,8,7,9,6,7
+86,Purchase Order Approval - 4,Sales,Logistics,Purchase Order Approval - 4 workflow involving cross-functional business review and operational decisions.,18538,47,15,10,7,2,4
+87,Expense Claim Validation - 4,HR,Retail,Expense Claim Validation - 4 workflow involving cross-functional business review and operational decisions.,20271,58,3,6,5,6,1
+88,Service Ticket Triage - 4,Marketing,Healthcare,Service Ticket Triage - 4 workflow involving cross-functional business review and operational decisions.,22004,69,10,9,10,2,7
+89,Lead Qualification - 4,Sales,Telecommunications,Lead Qualification - 4 workflow involving cross-functional business review and operational decisions.,23737,80,17,5,8,6,4
+90,Claims Intake - 4,HR,Technology,Claims Intake - 4 workflow involving cross-functional business review and operational decisions.,25470,25,5,8,6,2,1
+91,Quality Incident Review - 4,Marketing,Financial Services,Quality Incident Review - 4 workflow involving cross-functional business review and operational decisions.,27203,36,12,4,4,6,7
+92,Knowledge Base Update - 4,Sales,Manufacturing,Knowledge Base Update - 4 workflow involving cross-functional business review and operational decisions.,28936,47,19,7,9,2,4
+93,Vendor Master Data Update - 4,HR,Logistics,Vendor Master Data Update - 4 workflow involving cross-functional business review and operational decisions.,30669,58,7,10,7,6,1
+94,Payroll Exception Review - 4,Marketing,Retail,Payroll Exception Review - 4 workflow involving cross-functional business review and operational decisions.,5402,69,14,6,5,2,7
+95,Sales Proposal Review - 4,Sales,Healthcare,Sales Proposal Review - 4 workflow involving cross-functional business review and operational decisions.,7135,80,2,9,10,6,4
+96,Access Request Processing - 4,HR,Telecommunications,Access Request Processing - 4 workflow involving cross-functional business review and operational decisions.,8868,25,9,5,8,2,1
+97,Fraud Alert Investigation - 4,Marketing,Technology,Fraud Alert Investigation - 4 workflow involving cross-functional business review and operational decisions.,10601,36,16,8,6,6,7
+98,Recruitment Screening - 4,Sales,Financial Services,Recruitment Screening - 4 workflow involving cross-functional business review and operational decisions.,12334,47,4,4,4,2,4
+99,Returns Authorization - 4,HR,Manufacturing,Returns Authorization - 4 workflow involving cross-functional business review and operational decisions.,14067,58,11,7,9,6,1
+100,Compliance Evidence Collection - 4,Marketing,Logistics,Compliance Evidence Collection - 4 workflow involving cross-functional business review and operational decisions.,15800,69,18,10,7,2,7
